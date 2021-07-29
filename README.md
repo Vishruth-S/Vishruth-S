@@ -1,4 +1,4 @@
-### Hi, I'm Vishruth S  :smiley:
+### Hi, I'm Vishruth :smiley:
 
 
 - 🔭 I’m currently working on React and JavaScript projects

@@ -11,7 +11,6 @@ const Vishruth = {
 
 [![Protfolio](https://img.shields.io/badge/Portfolio-239?style=for-the-badge&logo='https://vishruth-s.github.io/Me/myFavicon.ico'=&logoColor=white)](https://vishruth-s.github.io/Me/)
 [![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishruth-subramanian/)
-[![GMail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](https://mailto:vishruth.mec@gmail.com)
 [![Hackerrank](https://img.shields.io/badge/Hackerrank-394248?style=for-the-badge&logo=hackerrank&logoColor=1ba94c)](https://www.hackerrank.com/Vishruth_S)
 [![LeetCode](https://img.shields.io/badge/Leetcode-000000?style=for-the-badge&logo=leetcode&logoColor=yellow)](https://leetcode.com/Vishruth_S/)
 [![Codechef](https://img.shields.io/badge/Codechef-5d331a?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/vishruth_s)

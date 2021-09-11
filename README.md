@@ -16,6 +16,8 @@ const Vishruth = {
 [![Codechef](https://img.shields.io/badge/Codechef-5d331a?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/vishruth_s)
 
 ![Vishruth's github stats](https://github-readme-stats.vercel.app/api?username=vishruth-s&show_icons=true&count_private=true&theme=radical&hide_rank=true)
+            
+![](https://komarev.com/ghpvc/?username=vishruth-s&color=7F00FF)
 
 
 <!--
